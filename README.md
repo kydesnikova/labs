@@ -19,4 +19,4 @@ In the conclusion, I turned on redux, react-redux and wrote necessary functions 
 
 
 
-### [View the demo](https://Rus203.github.io/react-basics/)
+### [View the demo](http://kydesnikova.github.io/labs/)
